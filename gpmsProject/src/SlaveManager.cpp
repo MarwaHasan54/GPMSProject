@@ -17,7 +17,7 @@ SlaveManager::SlaveManager() {
 SlaveManager::~SlaveManager() {
 	// TODO Auto-generated destructor stub
 }
-
+//hi
 /*NEEDS TO BE UPDATED*/
 void SlaveManager::handleMSG(char s[], int len){
 	Logic* logic = new Logic();
