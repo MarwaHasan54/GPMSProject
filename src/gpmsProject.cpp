@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : mygpms.cpp
-// Author      :
-// Version     :
+// Author      : marwa
+// Version     : 1
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 // IP          : 192.168.246.129
